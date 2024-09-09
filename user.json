@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "first_name": "Bayard",
+        "last_name": "Bould",
+        "email": "bbould0@sphinn.com",
+        "gender": "Male",
+        "salary": 10000
+    },
+    {
+        "id": 2,
+        "first_name": "Mareah",
+        "last_name": "Losseljong",
+        "email": "mlosseljong1@ox.ac.uk",
+        "gender": "Female",
+        "salary": 11000
+    },
+    {
+        "id": 3,
+        "first_name": "Ralf",
+        "last_name": "Sapson",
+        "email": "rsapson2@multiply.com",
+        "gender": "Male",
+        "salary": 12000
+    },
+    {
+        "id": 4,
+        "first_name": "Bard",
+        "last_name": "O'Heagertie",
+        "email": "boheagertie3@latimes.com",
+        "gender": "Male",
+        "salary": 15000
+    },
+    {
+        "id": 5,
+        "first_name": "Kerianne",
+        "last_name": "Bowich",
+        "email": "kbowich4@businessweek.com",
+        "gender": "Female",
+        "salary": 14000
+    },
+    {
+        "id": 6,
+        "first_name": "Leontyne",
+        "last_name": "Stanes",
+        "email": "lstanes5@creativecommons.org",
+        "gender": "Female",
+        "salary": 190000
+    },
+    {
+        "id": 7,
+        "first_name": "Lorena",
+        "last_name": "McCaughen",
+        "email": "lmccaughen6@about.me",
+        "gender": "Female",
+        "salary": 150000
+    },
+    {
+        "id": 8,
+        "first_name": "Rachel",
+        "last_name": "Crumby",
+        "email": "rcrumby7@icq.com",
+        "gender": "Non-binary",
+        "salary": 170000
+    },
+    {
+        "id": 9,
+        "first_name": "Joanie",
+        "last_name": "Tyer",
+        "email": "jtyer8@webmd.com",
+        "gender": "Female",
+        "salary": 19000
+    },
+    {
+        "id": 10,
+        "first_name": "Rice",
+        "last_name": "Sandercroft",
+        "email": "rsandercroft9@webnode.com",
+        "gender": "Male",
+        "salary": 18000
+    }
+]
